@@ -1,6 +1,5 @@
 import { GlobalOutlined } from "@ant-design/icons";
 import { Link } from "react-router-dom";
-import Misioneros from "../pages/Misioneros";
 
 export default function Header() {
   return (
